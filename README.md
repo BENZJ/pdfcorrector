@@ -1,6 +1,10 @@
 # PDF自动错字检测
 <img src="https://img.shields.io/badge/language-python-green.svg"/><img src="https://img.shields.io/github/last-commit/benzj/pdfcorrector.svg"/><img src="https://img.shields.io/github/repo-size/benzj/pdfcorrector.svg"/>
 
+刚刚经历硕士毕业论文的写作，使用Latex论文写作，生成好的PDF文档，论文态度决定成绩哈！！！深怕出现错字，考虑到淘宝机器查错字价格和泄漏论文的风险，还是自己写一个简易的论文文字检测器自查。
+
+使用[pycorrector](https://github.com/shibing624/pycorrector)是一个错词纠正的一套框架，看介绍应该能根据自己的语料库进行训练。然后结合PDF的python编辑工具对pdf文档进行检查。
+
 ## 效果展示
 ### 原始文本
 ![原始的pdf文档](./docs/images/modify.png)
@@ -27,3 +31,8 @@
 ## TODO
 - [ ] 使用新的语料库对计算机文献进行语句训练
 - [ ] 解决错词定位的问题
+
+## 交流
+QQ: 549614989
+
+邮箱: jbcbenz@gmail.com
