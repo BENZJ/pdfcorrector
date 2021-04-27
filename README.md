@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/github/repo-size/benzj/pdfcorrector.svg"/>
 
 ## 效果展示
+### 原始文本
 ![原始的pdf文档](./docs/images/modify.png)
+### 修改文本
 ![原始的pdf文档](./docs/images/org.png)
 ## 主要功能
 主要功能实现PDF文档中，中文词汇的错词错字自动检测标注
