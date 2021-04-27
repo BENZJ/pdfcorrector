@@ -1,7 +1,5 @@
 # PDF自动错字检测
-<img src="https://img.shields.io/badge/language-python-green.svg"/>
-<img src="https://img.shields.io/github/last-commit/benzj/pdfcorrector.svg"/>
-<img src="https://img.shields.io/github/repo-size/benzj/pdfcorrector.svg"/>
+<img src="https://img.shields.io/badge/language-python-green.svg"/><img src="https://img.shields.io/github/last-commit/benzj/pdfcorrector.svg"/><img src="https://img.shields.io/github/repo-size/benzj/pdfcorrector.svg"/>
 
 ## 效果展示
 ### 原始文本
